@@ -1,6 +1,9 @@
 .biodata{
     padding-top: 3rem;
-    background-color: darkgrey;
+    background-image: url(img/bg1.jpg);
+    background-size: 100%;
+    -webkit-text-fill-color: azure;
+    text-shadow: 3px 2px 1px black;
 }
 
 .imgProfile{
@@ -9,4 +12,8 @@
 
 #pekerjaan .row{
     margin-bottom: 10px;
+}
+#datadiri{
+    background-color: #A2D9FF;
+    
 }
