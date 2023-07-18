@@ -1,8 +1,12 @@
 .biodata{
-    padding-top: 2rem;
+    padding-top: 3rem;
     background-color: darkgrey;
 }
 
 .imgProfile{
-    padding-bottom: 1rem;
+    padding-bottom: 2rem;
+}
+
+.container{
+    text-align: center;
 }
