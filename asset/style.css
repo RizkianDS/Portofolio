@@ -1,12 +1,12 @@
 .biodata{
     padding-top: 3rem;
-    background-image: url(img/bg1.jpg);
+    background-image: url(img/img1.jpg);
     background-size: 100%;
     -webkit-text-fill-color: azure;
     text-shadow: 3px 2px 1px black;
 }
 
-.imgProfile{
+.profile{
     padding-bottom: 2rem;
 }
 
@@ -16,4 +16,11 @@
 #datadiri{
     background-color: #A2D9FF;
     
+}
+
+.footer{
+    background-color: #dc3545;
+    -webkit-text-fill-color: aliceblue;
+    text-shadow: 3px 2px 1px;
+    padding: 5px 15px 1px;
 }
