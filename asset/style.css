@@ -1,5 +1,5 @@
-.biodata{
-    padding-top: 3rem;
+#biodata{
+    padding-top: 5rem;
     background-image: url(img/img1.jpg);
     background-size: 100%;
     -webkit-text-fill-color: azure;
@@ -8,6 +8,7 @@
 
 .profile{
     padding-bottom: 2rem;
+    text-align: center;
 }
 
 #pekerjaan .row{
